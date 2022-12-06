@@ -4,7 +4,8 @@ This package contains implemetations of various measure compression algorithms a
 
 
 
-DOI badge: https://zenodo.org/badge/latestdoi/528878851
+DOI badge: https://zenodo.org/badge/528878851.svg
+Direct link : https://zenodo.org/badge/latestdoi/528878851
 
 
 
