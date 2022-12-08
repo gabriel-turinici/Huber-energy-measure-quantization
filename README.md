@@ -8,8 +8,8 @@ DOI badge:
 
 [![DOI](https://zenodo.org/badge/528878851.svg)](https://zenodo.org/badge/latestdoi/528878851)
 
-
+<!---
 Direct link : https://zenodo.org/badge/latestdoi/528878851
-
+--->
 
 
